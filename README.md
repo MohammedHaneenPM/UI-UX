@@ -149,7 +149,7 @@ I believe that great design is not only about appearance but also about creating
 
 🌐 Portfolio: https://mohammedhaneenpm.github.io
 
-🎨 Figma Portfolio: Add your Figma project link here
+🎨 Figma Portfolio: [MedTech UI-UX](https://www.figma.com/design/dluPD1zcnUcbWXgEzrjQEL/MedTech?m=auto&t=5zHWv2VnZanKnVQz-6)
 
 ---
 
